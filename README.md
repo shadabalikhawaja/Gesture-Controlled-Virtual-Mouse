@@ -10,10 +10,3 @@ This project lets you control your computer mouse using hand gestures detected t
 - Works with any standard webcam
 - Real-time hand tracking with MediaPipe
 
----
-
-## 📸 Demo
-*(Add a screenshot or GIF here to show how it works)*  
-Example:  
-```markdown
-![](demo.gif)
